@@ -1,0 +1,40 @@
+const Map<String, String> ru = {
+  'login': "Вход",
+  'register': "Регистрация",
+  'continue as a guest': "Продолжить как гость",
+  'welcome back! gladto see you, again':
+      "С возвращением! Рады видеть вас снова",
+  'enter your email': "Введите ваш адрес электронной почты",
+  'please enter your email': "Пожалуйста, введите ваш адрес электронной почты",
+  'enter your password': "Введите ваш пароль",
+  'please enter your password': "Пожалуйста, введите ваш пароль",
+  'forgot Password?': "Забыли пароль?",
+  'email or password error please try again':
+      "Ошибка электронной почты или пароля, попробуйте еще раз",
+  'or login with': "Или войдите с помощью",
+  'don’t have an account?': "У вас нет аккаунта?",
+  'register now': "Зарегистрируйтесь сейчас",
+  'welcome back! glad to see you, again':
+      "С возвращением! Рады снова видеть вас",
+  'username': "Имя пользователя",
+  'please enter your username': "Пожалуйста, введите ваше имя пользователя",
+  'email': "Электронная почта",
+  'please enter your email address example => (example@gmail.com)':
+      "Пожалуйста, введите ваш адрес электронной почты\nПример => (example@gmail.com)",
+  'password': "Пароль",
+  'must be 8 or more characters  and contain at least 1 number or special character':
+      "Должен содержать не менее 8 символов и хотя бы 1 цифру или специальный символ",
+  'confirm password': "Подтвердите пароль",
+  'the verification password is incorrect': "Пароль для подтверждения неверен",
+  'contacts': "Контакты",
+  'logout': "Выйти",
+  'name': "Имя",
+  'number': "Номер",
+  'cancel': "Отмена",
+  'done': "Готово",
+  'delete Contact': "Удалить контакт",
+  'delete': "Удалить",
+  'invalid OTP': "Неверный OTP",
+  'ga tasdiqlash kodi yuborildi': 'Код подтверждения был отправлен на адрес',
+  'confirm': "Подтверждать",
+};
